@@ -1,0 +1,43 @@
+.push-left {
+    margin-left: 50%;
+  }
+  
+  .wrapper-hero {
+    background-color: #e6f6ec;
+  }
+  
+  .wrapper-product {
+    background-color: #e6f6ec;
+  }
+  
+  .btn-collapse-about {
+    width: 100% !important;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+  }
+  .btn-collapse-about:focus {
+    box-shadow: unset !important;
+  }
+  .card-about {
+    z-index: -1;
+    margin-top: -6px;
+    border-color: #329467;
+    background-color: #e6f6ec;
+  }
+  
+  .divider-section {
+    margin-top: 100px;
+  }
+  
+  .divider-collapse {
+    margin-top: 25px;
+  }
+  
+  .warper-mobile-menu-btn {
+    display: flex;
+    justify-content: flex-end;
+    width: calc(100% - 175px);
+  }
+  
